@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">Ingeniero en Desarrollo y Gestión de Software con una pasión por la creación de soluciones web innovadoras. Como desarrollador web full-stack, tengo una amplia experiencia en proyectos reales, donde mi especialidad es el desarrollo en Node.js tanto en el front end como en el back end. Además, mi dominio de React y Bootstrap me permite crear interfaces atractivas y funcionales. Con una base sólida en JavaScript y PHP, estoy comprometido con la excelencia en cada línea de código que escribo. Estoy emocionado por seguir explorando nuevas oportunidades y desafíos en el mundo del desarrollo web. ¡Únete a mí en esta emocionante travesía tecnológica!</p>
+<p align="left">Soy un Ingeniero en Desarrollo y Gestión de Software, con una pasión por la creación de soluciones web innovadoras. Como desarrollador web full-stack, tengo una amplia experiencia en proyectos reales, donde mi especialidad es el desarrollo en Node.js tanto en el front end como en el back end. Además, mi dominio de React y Bootstrap me permite crear interfaces atractivas y funcionales. Con una base sólida en JavaScript y PHP, estoy comprometido con la excelencia en cada línea de código que escribo. Estoy emocionado por seguir explorando nuevas oportunidades y desafíos en el mundo del desarrollo web. ¡Únete a mí en esta emocionante travesía tecnológica!</p>
 
 ###
 
