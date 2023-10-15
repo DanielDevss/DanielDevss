@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">Me llamo Luis Daniel de la Rosa, soy Ingeniero en Desarrollo y Gestión de Software, pero me especializo en Desarrollo Web<br><br>- 🔭 Trabajo como desarrollador Full Stack.<br>- 📚 Me gusta aprender mucho sobre Frameworks<br>- ⚡ Mi pasatiempo favorito es programar y escuchar música</p>
+<p align="left">Ingeniero en Desarrollo y Gestión de Software con una pasión por la creación de soluciones web innovadoras. Como desarrollador web full-stack, tengo una amplia experiencia en proyectos reales, donde mi especialidad es el desarrollo en Node.js tanto en el front end como en el back end. Además, mi dominio de React y Bootstrap me permite crear interfaces atractivas y funcionales. Con una base sólida en JavaScript y PHP, estoy comprometido con la excelencia en cada línea de código que escribo. Estoy emocionado por seguir explorando nuevas oportunidades y desafíos en el mundo del desarrollo web. ¡Únete a mí en esta emocionante travesía tecnológica!</p>
 
 ###
 
